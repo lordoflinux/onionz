@@ -32,10 +32,12 @@ Some IRC: http://34vnln24rlakgbk6gpityvljieayyw7q4bhdbbgs6zp2v5nbh345zgad.onion/
 
 ????: http://ma3hqhoccgsy5cwdtfpdorwgryarlgq63da2fy4xpgrouqmw2f77wkid.onion/
 
-????: http://44r32ehxoqzwggmb7zgzyh5ixpok7zs3gkz6jnhmx6o7yyzaqeokvnqd.onion
+????: http://44r32ehxoqzwggmb7zgzyh5ixpok7zs3gkz6jnhmx6o7yyzaqeokvnqd.onion/
 
 Longevity World Cup: http://lwc7tszawiykmkjoq4u2yxramezkwbdys2wxr2fmf6sdr6ug5t36ckqd.onion/
 
-EndChan Primary: http://endchancxfbnrfgauuxlztwlckytq7rgeo5v6pc2zd4nyqo3khfam4ad.onion
+EndChan Primary: http://endchancxfbnrfgauuxlztwlckytq7rgeo5v6pc2zd4nyqo3khfam4ad.onion/
 
-EndChan Backup: http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion
+EndChan Backup: http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/
+
+TheVoid: http://qldbfu5gweipofoncr2qgtd4tcyxx2gcfk53q2bl4n2uqiy4octuwiad.onion/
