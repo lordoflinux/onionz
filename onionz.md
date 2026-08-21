@@ -38,4 +38,5 @@ EndChan Primary: http://endchancxfbnrfgauuxlztwlckytq7rgeo5v6pc2zd4nyqo3khfam4ad
 
 EndChan Backup: http://enxx3byspwsdo446jujc52ucy2pf5urdbhqw3kbsfhlfjwmbpj5smdad.onion/
 
-The Void: http://ogo7jolojnlmddw5vl5y6m64pr73fsz7x5z4jluxosvkemz7rgdir7qd.onion/
+The Void: http://72ywpz6w3wg6ugkcbeqhapyv4eoa6cpo3j35yfneulfivf5iypkjvxid.onion/
+
